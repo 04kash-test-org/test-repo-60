@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: test-repo-60
-  description: Repository for test-repo-60
-spec:
-  type: service
-  lifecycle: production
-  owner: team-a
